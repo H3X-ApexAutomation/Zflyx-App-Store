@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "version_code": 1,
+  "release_date": "2026-09-08",
+  "download_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/apks/zflyx-phone.apk",
+  "changelog": "Initial release of Zflyx App Store for phones and tablets",
+  "force_update": false,
+  "min_sdk": 21,
+  "target_sdk": 34,
+  "file_size": "6.2 MB",
+  "checksum": "",
+  "whats_new": [
+    "First public release",
+    "Optimized for touch interaction",
+    "Smooth scrolling and navigation",
+    "Featured apps section",
+    "Category browsing",
+    "App search functionality"
+  ]
+}
