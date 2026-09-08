@@ -1,1 +1,19 @@
-
+{
+  "version": "1.0.0",
+  "version_code": 1,
+  "release_date": "2026-09-08",
+  "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/apks/zflyx-tv.apk",
+  "changelog": "Initial release of Zflyx App Store for Android TV and Fire TV Stick",
+  "force_update": false,
+  "min_sdk": 21,
+  "target_sdk": 34,
+  "file_size": "8.4 MB",
+  "checksum": "",
+  "whats_new": [
+    "First public release",
+    "Optimized for TV remote control",
+    "Large tiles for easy navigation",
+    "Featured apps section",
+    "Category browsing"
+  ]
+}
