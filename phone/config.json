@@ -1,0 +1,81 @@
+{
+  "platform": "phone",
+  "store_name": "Zflyx App Store",
+  "version": "1.0.0",
+  "ui": {
+    "layout": "grid",
+    "columns": 2,
+    "rows": 4,
+    "tile_size": "medium",
+    "show_banners": true,
+    "show_hero": true,
+    "show_ratings": true,
+    "show_downloads": true,
+    "show_categories": true,
+    "show_search": true,
+    "animation_speed": "normal",
+    "transition_effect": "slide",
+    "focus_scale": 1.05,
+    "focus_glow": false,
+    "swipe_to_refresh": true,
+    "bottom_navigation": true
+  },
+  "navigation": {
+    "remote_supported": false,
+    "gamepad_supported": false,
+    "voice_search": true,
+    "keyboard_supported": true,
+    "scroll_speed": "fast",
+    "gesture_navigation": true
+  },
+  "download": {
+    "default_storage": "internal",
+    "allow_external": true,
+    "max_parallel": 3,
+    "show_progress": true,
+    "show_notification": true,
+    "auto_install": false,
+    "delete_after_install": false,
+    "download_path": "Download/ZflyxStore/"
+  },
+  "updates": {
+    "check_interval": "daily",
+    "auto_download": false,
+    "notify_on_update": true,
+    "install_on_complete": false,
+    "ignore_beta": true
+  },
+  "theme": {
+    "primary_color": "#6C3CE1",
+    "secondary_color": "#E83E8C",
+    "background_color": "#0A0A1A",
+    "card_color": "#1A1A2E",
+    "card_hover_color": "#2A2A4E",
+    "accent_color": "#00D4FF",
+    "text_color": "#FFFFFF",
+    "text_secondary": "#AAAAAA",
+    "text_muted": "#666666",
+    "status_bar_color": "#0A0A1A",
+    "navigation_bar_color": "#0A0A1A",
+    "bottom_nav_color": "#1A1A2E",
+    "bottom_nav_active": "#6C3CE1"
+  },
+  "features": {
+    "dark_mode": true,
+    "night_mode": true,
+    "parental_controls": false,
+    "download_queue": true,
+    "favorites": true,
+    "recently_updated": true,
+    "top_downloads": true,
+    "app_recommendations": true,
+    "push_notifications": false
+  },
+  "content": {
+    "max_apps_per_page": 20,
+    "cache_icons": true,
+    "cache_duration": 3600,
+    "refresh_interval": 300,
+    "image_quality": "high"
+  }
+}
