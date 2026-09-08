@@ -1,0 +1,87 @@
+{
+  "store_name": "Zflyx App Store",
+  "store_version": "1.0.0",
+  "platform": "phone",
+  "theme": {
+    "primary_color": "#6C3CE1",
+    "secondary_color": "#E83E8C",
+    "background_color": "#0A0A1A",
+    "card_color": "#1A1A2E",
+    "accent_color": "#00D4FF"
+  },
+  "last_updated": "2026-09-08",
+  "categories": [
+    "All",
+    "Utilities",
+    "Games",
+    "Productivity",
+    "Communication",
+    "Media",
+    "Tools",
+    "Education",
+    "Lifestyle"
+  ],
+  "featured_apps": [
+    "sample_app_2"
+  ],
+  "apps": [
+    {
+      "id": "sample_app_1",
+      "name": "Sample App 1",
+      "version": "1.0.0",
+      "version_code": 1,
+      "category": "Utilities",
+      "description": "This is a sample app for phones. Replace with your actual app details.",
+      "long_description": "A more detailed description of the app goes here. This version is optimized for phone and tablet touch interaction.",
+      "developer": "H3X-ApexAutomation",
+      "website": "https://github.com/H3X-ApexAutomation",
+      "download_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/apks/sample_app_1.apk",
+      "icon_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/sample_app_1.png",
+      "banner_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/sample_app_1_banner.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/screenshots/sample_app_1_1.jpg",
+        "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/screenshots/sample_app_1_2.jpg"
+      ],
+      "size": "5.2 MB",
+      "release_date": "2026-09-08",
+      "min_sdk": 21,
+      "target_sdk": 34,
+      "permissions": ["INTERNET", "READ_EXTERNAL_STORAGE"],
+      "features": ["Feature 1", "Feature 2", "Feature 3"],
+      "rating": 4.5,
+      "rating_count": 127,
+      "downloads": 1523,
+      "featured": false,
+      "price": "Free"
+    },
+    {
+      "id": "sample_app_2",
+      "name": "Sample Game",
+      "version": "2.1.0",
+      "version_code": 3,
+      "category": "Games",
+      "description": "A fun game for phones and tablets.",
+      "long_description": "This is a game app designed for phones and tablets. It features stunning graphics and addictive gameplay. Play on the go!",
+      "developer": "H3X-ApexAutomation",
+      "website": "https://github.com/H3X-ApexAutomation",
+      "download_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/apks/sample_app_2.apk",
+      "icon_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/sample_app_2.png",
+      "banner_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/sample_app_2_banner.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/screenshots/sample_app_2_1.jpg",
+        "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/screenshots/sample_app_2_2.jpg"
+      ],
+      "size": "12.7 MB",
+      "release_date": "2026-09-08",
+      "min_sdk": 21,
+      "target_sdk": 34,
+      "permissions": ["INTERNET", "ACCESS_NETWORK_STATE"],
+      "features": ["Multiplayer", "Leaderboards", "Achievements"],
+      "rating": 4.8,
+      "rating_count": 342,
+      "downloads": 8741,
+      "featured": true,
+      "price": "Free"
+    }
+  ]
+}
