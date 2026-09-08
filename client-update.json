@@ -1,1 +1,10 @@
-
+{
+  "version": "1.0.0",
+  "version_code": 1,
+  "release_date": "2026-09-08",
+  "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/apks/zflyx-store.apk",
+  "changelog": "Initial release of Zflyx App Store",
+  "force_update": false,
+  "min_sdk": 21,
+  "target_sdk": 34
+}
