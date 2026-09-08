@@ -1,1 +1,67 @@
-
+{
+  "store_name": "Zflyx App Store",
+  "store_version": "1.0.0",
+  "last_updated": "2026-09-08",
+  "categories": [
+    "All",
+    "Utilities",
+    "Games",
+    "Productivity",
+    "Communication",
+    "Media",
+    "Tools",
+    "Other"
+  ],
+  "apps": [
+    {
+      "id": "sample_app_1",
+      "name": "Sample App 1",
+      "version": "1.0.0",
+      "version_code": 1,
+      "category": "Utilities",
+      "description": "This is a sample app description. Replace with your actual app details.",
+      "long_description": "A more detailed description of the app goes here. Explain what the app does, its key features, and why users should download it.",
+      "developer": "Your Name",
+      "website": "https://example.com",
+      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/apks/sample_app_1.apk",
+      "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/icons/sample_app_1.png",
+      "size": "5.2 MB",
+      "release_date": "2026-09-08",
+      "min_sdk": 21,
+      "target_sdk": 34,
+      "permissions": [
+        "INTERNET",
+        "READ_EXTERNAL_STORAGE"
+      ],
+      "screenshots": [],
+      "featured": false,
+      "rating": 0.0,
+      "downloads": 0
+    },
+    {
+      "id": "sample_app_2",
+      "name": "Sample App 2",
+      "version": "2.1.0",
+      "version_code": 3,
+      "category": "Games",
+      "description": "Another sample app. Remove this and add your own apps.",
+      "long_description": "This is a game app. It has amazing graphics and addictive gameplay. Download now and have fun!",
+      "developer": "Your Name",
+      "website": "https://example.com",
+      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/apks/sample_app_2.apk",
+      "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/icons/sample_app_2.png",
+      "size": "12.7 MB",
+      "release_date": "2026-09-08",
+      "min_sdk": 21,
+      "target_sdk": 34,
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE"
+      ],
+      "screenshots": [],
+      "featured": false,
+      "rating": 0.0,
+      "downloads": 0
+    }
+  ]
+}
