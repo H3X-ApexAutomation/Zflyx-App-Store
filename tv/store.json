@@ -33,14 +33,14 @@
       "category": "Utilities",
       "description": "This is a sample app for TV. Replace with your actual app details.",
       "long_description": "A more detailed description of the app goes here. This version is optimized for TV viewing with large text and simple navigation.",
-      "developer": "Your Name",
-      "website": "https://example.com",
-      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/apks/sample_app_1.apk",
-      "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/icons/sample_app_1.png",
-      "banner_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/banners/sample_app_1_banner.png",
+      "developer": "H3X-ApexAutomation",
+      "website": "https://github.com/H3X-ApexAutomation",
+      "download_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/apks/sample_app_1.apk",
+      "icon_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/sample_app_1.png",
+      "banner_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/sample_app_1_banner.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/screenshots/sample_app_1_1.jpg",
-        "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/screenshots/sample_app_1_2.jpg"
+        "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/screenshots/sample_app_1_1.jpg",
+        "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/screenshots/sample_app_1_2.jpg"
       ],
       "size": "5.2 MB",
       "release_date": "2026-09-08",
@@ -65,14 +65,14 @@
       "category": "Games",
       "description": "A fun game optimized for TV remote control.",
       "long_description": "This is a game app designed specifically for TV. It features stunning graphics and addictive gameplay. Use your remote to control the action and compete with friends!",
-      "developer": "Your Name",
-      "website": "https://example.com",
-      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/apks/sample_app_2.apk",
-      "icon_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/icons/sample_app_2.png",
-      "banner_url": "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/banners/sample_app_2_banner.png",
+      "developer": "H3X-ApexAutomation",
+      "website": "https://github.com/H3X-ApexAutomation",
+      "download_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/apks/sample_app_2.apk",
+      "icon_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/sample_app_2.png",
+      "banner_url": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/sample_app_2_banner.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/screenshots/sample_app_2_1.jpg",
-        "https://raw.githubusercontent.com/YOUR_USERNAME/ZflyxAppStore/main/screenshots/sample_app_2_2.jpg"
+        "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/screenshots/sample_app_2_1.jpg",
+        "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/screenshots/sample_app_2_2.jpg"
       ],
       "size": "12.7 MB",
       "release_date": "2026-09-08",
