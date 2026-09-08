@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "description": "Browse all available apps",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/all.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/all_banner.png",
+      "color": "#6C3CE1",
+      "featured": true
+    },
+    {
+      "id": "utilities",
+      "name": "Utilities",
+      "description": "Essential tools for your device",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/utilities.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/utilities_banner.png",
+      "color": "#00D4FF",
+      "featured": true
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "description": "Fun and addictive games",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/games.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/games_banner.png",
+      "color": "#E83E8C",
+      "featured": true
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "description": "Apps to boost your efficiency",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/productivity.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/productivity_banner.png",
+      "color": "#28A745",
+      "featured": true
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "description": "Stay connected with others",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/communication.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/communication_banner.png",
+      "color": "#17A2B8",
+      "featured": false
+    },
+    {
+      "id": "media",
+      "name": "Media",
+      "description": "Watch, listen, and enjoy",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/media.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/media_banner.png",
+      "color": "#FD7E14",
+      "featured": false
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "description": "Handy tools for every need",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/tools.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/tools_banner.png",
+      "color": "#6F42C1",
+      "featured": false
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "description": "Learn something new today",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/education.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/education_banner.png",
+      "color": "#20C997",
+      "featured": false
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle",
+      "description": "Apps for everyday living",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/lifestyle.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/lifestyle_banner.png",
+      "color": "#FF6B6B",
+      "featured": false
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "description": "Fun and relaxation",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/entertainment.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/entertainment_banner.png",
+      "color": "#F06595",
+      "featured": false
+    },
+    {
+      "id": "security",
+      "name": "Security",
+      "description": "Protect your device and privacy",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/security.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/security_banner.png",
+      "color": "#DC3545",
+      "featured": false
+    },
+    {
+      "id": "personalization",
+      "name": "Personalization",
+      "description": "Make your device uniquely yours",
+      "icon": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/icons/categories/personalization.png",
+      "banner": "https://raw.githubusercontent.com/H3X-ApexAutomation/ZflyxAppStore/main/banners/categories/personalization_banner.png",
+      "color": "#AB47BC",
+      "featured": false
+    }
+  ]
+}
